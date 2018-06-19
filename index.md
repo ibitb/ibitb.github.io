@@ -1,7 +1,7 @@
-### 沪牌拍牌软件
+## 沪牌拍牌软件
 
 #### 1. 软件下载
-下载最新版软件 [bitb.1.2.zip](https://github.com/ibitb/bitb/releases/download/v1.2/bitb.1.2.zip)
+下载最新版软件 [bitb.zip](https://github.com/ibitb/ibitb.github.io/releases/download/v1.0/bitb.zip)
 
 #### 2. 账号购买
 打开 [此页面](https://shop223575915.taobao.com/) 购买，并备注：`标书号、证件号码后四位`
